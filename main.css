@@ -1,0 +1,11 @@
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.panel-body{
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 0;
+}
